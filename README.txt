@@ -1,0 +1,36 @@
+=== Geo Falgs ===
+Contributors: timersys
+Donate link: https://geotargetingwp.com/
+Tags: geotargeting, wordpress geotargeting, geolocation, geo target, geo targeting, geo flags
+Requires at least: 3.6
+Tested up to: 4.8.2
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Display country flags based on user location
+
+== Description ==
+
+Display country flags based on user location with a simple shortcode [geot_flag]
+
+More info and docs on ([https://geotargetingwp.com/docs/geo-flags/](https://geotargetingwp.com/docs/geo-flags/))
+
+== Installation ==
+
+1. Unzip and Upload the directory 'geo-flags' to the '/wp-content/plugins/' directory
+
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+3. Go to the editor and use as many shortcodes as needed
+
+
+== Frequently Asked Questions ==
+
+= None yet =
+
+
+== Changelog ==
+
+= 1.0.0 - October 1  =
+* New plugin

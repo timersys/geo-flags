@@ -1,0 +1,26 @@
+{
+    "name": "timersys/geo-flags",
+    "description": "WordPress plugin for showing country flags based on user location",
+    "homepage": "https://geotargetingwp.com",
+    "keywords": [
+        "wordpress","geotargeting","geolocation","plugin","country flags"
+    ],
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name":"Damian Logghe",
+            "email":"damian@timersys.com",
+            "homepage":"https://timersys.com/"
+        }
+    ],
+    "support"    : {
+        "issues": "https://github.com/timersys/geotargeting-pro/issues",
+        "source": "https://github.com/timersys/geotargeting-pro"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "type": "wordpress-plugin",
+    "require": {
+        "timersys/geot-functions": "dev-master"
+    }
+}
