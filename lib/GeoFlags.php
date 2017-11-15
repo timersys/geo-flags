@@ -114,6 +114,7 @@ class GeoFlags {
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'lib/functions.php';
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'lib/class-geotflags-ajax-shortcodes.php';
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'lib/class-geotflags-shortcodes.php';
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'lib/GeoFlagsUpdates.php';
 
 	}
 
@@ -126,11 +127,8 @@ class GeoFlags {
 	 * @access   private
 	 */
 	private function define_admin_hooks() {
-
-		#$this->admin = new GeoFlagsAdmin( );
-
 		// License and Updates
-	#	add_action( 'admin_init' , [ $this->admin, 'handle_updates'], 0 );
+		add_action( 'admin_init' , [ GeoFlagsUpdates::class , 'handle_updates'], 0 );
 
 	}
 

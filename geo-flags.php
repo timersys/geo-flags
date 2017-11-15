@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Geo flasg plugin
+ * Geo flags plugin
  *
  * @link              https://geotargetingwp.com/geo-flags
  * @since             1.0.0

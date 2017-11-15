@@ -1,7 +1,7 @@
-=== Geo Falgs ===
+=== Geo Flags ===
 Contributors: timersys
 Donate link: https://geotargetingwp.com/
-Tags: geotargeting, wordpress geotargeting, geolocation, geo target, geo targeting, geo flags
+Tags: geotargeting, wordpress geotargeting, geolocation, geo target, geo targeting, geo flags, geolify
 Requires at least: 3.6
 Tested up to: 4.8.2
 Stable tag: 1.0.0
@@ -32,5 +32,5 @@ More info and docs on ([https://geotargetingwp.com/docs/geo-flags/](https://geot
 
 == Changelog ==
 
-= 1.0.0 - October 1  =
+= 1.0.0 =
 * New plugin
