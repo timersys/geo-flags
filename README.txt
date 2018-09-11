@@ -3,8 +3,8 @@ Contributors: timersys
 Donate link: https://geotargetingwp.com/
 Tags: geotargeting, wordpress geotargeting, geolocation, geo target, geo targeting, geo flags, geolify
 Requires at least: 3.6
-Tested up to: 4.9.7
-Stable tag: 1.0.2
+Tested up to: 4.9.8
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ More info and docs on ([https://geotargetingwp.com/docs/geo-flags/](https://geot
 
 
 == Changelog ==
+
+= 1.0.3 =
+* Core Updates
 
 = 1.0.2 =
 * Core Updates
