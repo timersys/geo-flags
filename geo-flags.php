@@ -11,7 +11,7 @@
  * Plugin Name:       Geo Flags
  * Plugin URI:        https://geotargetingwp.com/geo-flags
  * Description:       Country Flags based on user location
- * Version:           1.0.4
+ * Version:           1.0.5
  * Author:            Timersys
  * Author URI:        https://geotargetingwp.com/geo-flags
  * License:           GPL-2.0+
@@ -26,7 +26,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 define( 'GEOF_PLUGIN_FILE' , __FILE__);
-define( 'GEOF_VERSION' , '1.0.4' );
+define( 'GEOF_VERSION' , '1.0.5' );
 define( 'GEOF_PLUGIN_DIR' , plugin_dir_path(__FILE__) );
 define( 'GEOF_PLUGIN_URL' , plugin_dir_url(__FILE__) );
 define( 'GEOF_PLUGIN_HOOK' , basename( dirname( __FILE__ ) ) . '/' . basename( __FILE__ ) );
